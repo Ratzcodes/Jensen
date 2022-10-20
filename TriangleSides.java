@@ -29,5 +29,3 @@ public class TriangleSides {
 
 }
 
-
-// adding some comments to see the changes in GIT
